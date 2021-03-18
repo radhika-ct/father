@@ -6,3 +6,4 @@
       path: "/etc/ansible/hosts"
       status: touch
 ---
+change my new life
