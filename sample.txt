@@ -6,3 +6,4 @@
       path: "/etc/ansible/hosts"
       status: touch
 ---
+powe of
